@@ -7,4 +7,4 @@
 #What to do:
 - Open HxD.
 - Drag your `.tp` file into HxD (I will be using `wogunlocked.tp` from the **HUD** folder in the **pc** folder)
-![](https://github.com/LuisDennis/Super-Meat-Boy-Info/tree/main/resource/tp-png0.png)
+![tp-png0.png](https://github.com/LuisDennis/Super-Meat-Boy-Info/tree/main/resource/tp-png0.png)
